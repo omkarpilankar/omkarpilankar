@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omkar Dilip Pilankar (@omkarpilankar)
-- 👀 I’m interested in Linux, Cybersecurity and Cloud Computing
+- 👀 My topics of interest: Linux, Python, Cybersecurity and Cloud Computing
 - 📫 How to reach me <br/> Facebook @omkar6Pilankar
                      <br/> Instagram @omkar6pilankar
                      <br/> Twitter @omkar_pilankar
